@@ -1,4 +1,4 @@
-module google.golang.org/protobuf
+module github.com/pickleballinc/protobuf
 
 go 1.21
 
